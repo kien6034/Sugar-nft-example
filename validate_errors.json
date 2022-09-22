@@ -1,0 +1,42 @@
+[
+  {
+    "path": "assets/1.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/7.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/0.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/8.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/2.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/6.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/4.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/5.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/3.json",
+    "error": "Combined creators' share does not equal 100%."
+  },
+  {
+    "path": "assets/9.json",
+    "error": "Combined creators' share does not equal 100%."
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "program": {
+    "candyMachine": "Coxx5m1vQLszLYMrt9ervF5RTW9v6hT8R7nfVb6WfF6G",
+    "candyMachineCreator": "EPi523LsE1TVGa24VBBcGkuW9h9hXGYKxEwsvh48JYFp",
+    "collectionMint": "AEVV1vAvtuDWHpQiry9Xg3q1QrYgvznhawRVXmrZPVwB"
+  },
+  "items": {
+    "-1": {
+      "name": "Numbers Collection",
+      "image_hash": "f3fc347a461d8f5b80d9f8f4d336667872ca3c103e48259d84652acf034a55db",
+      "image_link": "https://arweave.net/KXhnFYdZFkT9CepS8hv2SXZFjFHeFlZHUv4-YeUQaGw?ext=png",
+      "metadata_hash": "c7842c33e530140dc041743d38528513bb2286171b996f95906f7de09f5d0b6d",
+      "metadata_link": "https://arweave.net/4Hz4GS8jX4b82EfpmjIeL1Ge8c0i0sNHF_9_PQmtsQo",
+      "onChain": true
+    },
+    "0": {
+      "name": "1",
+      "image_hash": "f3fc347a461d8f5b80d9f8f4d336667872ca3c103e48259d84652acf034a55db",
+      "image_link": "https://arweave.net/bwdBE3z9mBC8j-fKb-plddwAzN3uUAr0POgd6xX6NU4?ext=png",
+      "metadata_hash": "3e2a2101061430aaa6ee798d566b1df80b67852657ded16860015f7e90009224",
+      "metadata_link": "https://arweave.net/hwR4fQpX9pAKgTZPagd_GoXTHRqQp1ZIqpelJwsLM9U",
+      "onChain": true
+    },
+    "1": {
+      "name": "2",
+      "image_hash": "75a5d78c4a6c488a225c7515647cff829933ffc84ee52d1e6872d3504f856f7c",
+      "image_link": "https://arweave.net/4RdtlbI2zHvm9fQc3rv-DU7w4KTRC1axRbLV448iMXg?ext=png",
+      "metadata_hash": "cfb7328481a3439a961eabce08ae629983a29ad8838d0445b62aa01c93c25aec",
+      "metadata_link": "https://arweave.net/pAgQRMdyMV0lT_F7C609IdSGQAfPGm5MngApd7BBRUE",
+      "onChain": true
+    },
+    "2": {
+      "name": "3",
+      "image_hash": "1024264bc7e5dae2f87bf554e50ff4fdecd81800a4f4a1a43bb18783e9a3727e",
+      "image_link": "https://arweave.net/NgQgglzB3uDcXsl1ZDyax1Ah7kEQsSV4mA4zTnBgQcI?ext=png",
+      "metadata_hash": "e27e3282682ea5e5d4b5654d7b4f92298283413a9bfd681d3f8d5a1017d75ccd",
+      "metadata_link": "https://arweave.net/k1IrsDYk2qm3IWoUoZ01EV6DzyNlLCbQFz2cBBBiCws",
+      "onChain": true
+    },
+    "3": {
+      "name": "4",
+      "image_hash": "a2dd451f546bd5000b355d7f53759205bdc567da31ac085db4aeae205b220107",
+      "image_link": "https://arweave.net/LsKrstpa1iyD6W2ZFdEOeT7v7K-Mcj0T3dAORdgSvU0?ext=png",
+      "metadata_hash": "2e6fb9c70e6fde2449f3446345a1115d94f1621d448f770649ea819d793b4074",
+      "metadata_link": "https://arweave.net/xHzh8tsq8B4P00B_-NIB9jd0p5EL-23zQfNvQ7cnMgE",
+      "onChain": true
+    },
+    "4": {
+      "name": "5",
+      "image_hash": "6b4fd6d5f841c2942a6a55f310b2a72ce2b4db133e14d176aa3739ab17efee6e",
+      "image_link": "https://arweave.net/G2qpA30byJ7mrgigUwDN5ptxoUNmtlgogPh9F8Y6GqE?ext=png",
+      "metadata_hash": "710043c6cbeb4219e404b4bd8c77ab26af4d13b932a9c958d4ed548b45f02d47",
+      "metadata_link": "https://arweave.net/m3k4EgAAPiPmCabR9kMvFPYu63NmN0IKbWX7xzFbqqw",
+      "onChain": true
+    },
+    "5": {
+      "name": "6",
+      "image_hash": "a17168388ab2134f8334bde97609bce68e8bb23ed26b2cfd2a3ebcfdcd8c8006",
+      "image_link": "https://arweave.net/M0D_Vcz836WC2g7tbJ1CI0JwSwXpk2DVISttWAK9BNM?ext=png",
+      "metadata_hash": "7eac037e9df4220692ce9ebfeab9380b1c23efa4888a962ea0abd1e15da6b345",
+      "metadata_link": "https://arweave.net/3IjJbkSmMxoHGUijpuZI1Hjl7Jw9cDWq2CwScSaH-Cs",
+      "onChain": true
+    },
+    "6": {
+      "name": "7",
+      "image_hash": "88ab827fcab5bd4fde738dd8bd6d8ebe57b36796d982567fe83c1f77513e4aa8",
+      "image_link": "https://arweave.net/fw0EbLByepRfsGoazU6ZxjsAfgGgZvbYWr97SlQzfSk?ext=png",
+      "metadata_hash": "b589fcfbb6f85628290567d8c7d74aa2f06fb8895c5e972424246d0a2ee13e48",
+      "metadata_link": "https://arweave.net/bYyjbbQ6N08yQ92lL3i9541k3lckgJ7E4Y1TTk5tmns",
+      "onChain": true
+    },
+    "7": {
+      "name": "8",
+      "image_hash": "e8438baaee69f00bbb6c32cc78319cfffb834a3cbcd4511f604ffcdcf7d2f614",
+      "image_link": "https://arweave.net/RwxalKpmvnttl7MX_Q64YCM28S6csdgwxDV7SgCHO-I?ext=png",
+      "metadata_hash": "152f678fcc6b411276e7d21bda997971a378d69352af38ca27846708461b6eda",
+      "metadata_link": "https://arweave.net/A3c3BWFVrTmLxBpUT29nhYJ2E2Ud6RQMuCM3OyDwJVU",
+      "onChain": true
+    },
+    "8": {
+      "name": "9",
+      "image_hash": "3950aee4754d9c9afc00efd07c83180458dc8271aa3afafe5dee434fd46c7885",
+      "image_link": "https://arweave.net/dR60BLpYX7I5N3fbUiIvBdmoSloHVqymJg3LcmbP87c?ext=png",
+      "metadata_hash": "d7e8b84fa076dee68ad8dd54b7fca874dd920a4c8fffb15dd821feeb682b1029",
+      "metadata_link": "https://arweave.net/pFjlLJt1FTiZWAzbdIePjc4Az3yJLHpq88ckU3-RnxA",
+      "onChain": true
+    },
+    "9": {
+      "name": "10",
+      "image_hash": "3f11b92e4923b148cef49f19c16e4db6b164453d3816fd1c5d58a13bfb557e08",
+      "image_link": "https://arweave.net/s5AfuIwfOwQIXsZ5VvypQHv1LaVDW95iC5vuAsfCayU?ext=png",
+      "metadata_hash": "d49447e010fbe45e263a96b2028d5115e9add31229d9aff52e6415ec845faf3d",
+      "metadata_link": "https://arweave.net/4W1k-_W1H5xtR6VhVnmwOVMPPLxfcXUe2r3W9ICug6o",
+      "onChain": true
+    }
+  }
+}
